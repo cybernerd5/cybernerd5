@@ -1,17 +1,21 @@
 # 👨‍💻 Odigie Joseph | Ethical Hacker & Cybersecurity Professional
 
-![Cybersecurity Banner](https://github.com/cybernerd5/yourrepo/assets/banner.jpg)
+![Cybersecurity Banner](https://github.com/cybernerd5/cybernerd5/assets/banner-placeholder.jpg)
 
-Hi there! I'm **Odigie Joseph**, a passionate and dedicated **ethical hacker** and **cybersecurity enthusiast** with a mission to protect digital systems and educate others about staying secure in today's interconnected world. I focus on **penetration testing**, **vulnerability analysis**, and **network security**, with hands-on experience in **DVWA**, **Burp Suite**, and **Splunk**.
+[![Profile Views](https://komarev.com/ghpvc/?username=cybernerd5&color=blue)](https://github.com/cybernerd5)
+[![Followers](https://img.shields.io/github/followers/cybernerd5?label=Followers&style=social)](https://github.com/cybernerd5)
+[![GitHub Stars](https://img.shields.io/github/stars/cybernerd5?style=social)](https://github.com/cybernerd5)
+
+Hi there! I'm **Odigie Joseph**, also known as **@cybernerd5** — a passionate and driven **ethical hacker** and **cybersecurity enthusiast** from Nigeria. I’m on a mission to protect digital systems, share knowledge, and contribute to a safer cyber world. I specialize in **penetration testing**, **network security**, and **threat hunting**.
 
 ---
 
 ## 🧠 What I'm Working On
 
 - 🔐 Mastering ethical hacking with a strict 4-hour daily study plan  
-- ⚙️ Building a local cybersecurity lab using **DVWA**, **Kali Linux**, and **Splunk**  
-- 📚 Learning advanced **Python scripting** for offensive security  
-- 🎯 Practicing real-world scenarios like **threat hunting** and **web app exploitation**
+- ⚙️ Building a local penetration testing lab using **DVWA**, **Kali Linux**, and **Splunk**  
+- 🐍 Learning Python scripting for offensive security  
+- 🛡️ Practicing real-world threat simulations and analysis
 
 ---
 
@@ -20,17 +24,17 @@ Hi there! I'm **Odigie Joseph**, a passionate and dedicated **ethical hacker** a
 - 🐍 Python | Bash | JavaScript  
 - 🐧 Kali Linux | Parrot OS | Ubuntu  
 - 🌐 Burp Suite | Nmap | Wireshark | ProxyChains | Metasploit  
-- 📊 Splunk | ELK Stack (learning phase)  
+- 📊 Splunk | ELK Stack (learning)  
 - 🛠️ Git | GitHub | VirtualBox | VMware
 
 ---
 
-## 🎯 Goals for 2025
+## 🎯 2025 Goals
 
-- 🏆 Earn my first cybersecurity certification (e.g., **CompTIA Security+**, **CEH**, or **eJPT**)  
-- 🧪 Create and share CTF walkthroughs and mini-projects  
-- 📖 Launch beginner-friendly cybersecurity content on my Facebook Page **[Digital Armor Hub](https://facebook.com)**  
-- 🌍 Build a global network of ethical hackers and cyber defenders
+- 📜 Earn certifications like **CompTIA Security+**, **eJPT**, or **CEH**  
+- 🚀 Launch and share beginner-friendly CTFs and lab walkthroughs  
+- 🧠 Build an educational cybersecurity brand via **[Digital Armor Hub](https://www.facebook.com/share/156XKfxz5H/?mibextid=LQQJ4d)**  
+- 🌍 Network with global cybersecurity professionals and communities
 
 ---
 
@@ -38,7 +42,14 @@ Hi there! I'm **Odigie Joseph**, a passionate and dedicated **ethical hacker** a
 
 - 🔓 [DVWA-Lab-Setup](https://github.com/cybernerd5/DVWA-Lab-Setup): Step-by-step local penetration testing lab  
 - 🧪 [Python-for-Hackers](https://github.com/cybernerd5/Python-for-Hackers): Python scripts for automation, scanning, and analysis  
-- 📘 [Cybersecurity-CheatSheets](https://github.com/cybernerd5/Cybersecurity-CheatSheets): Quick references for tools, commands, and techniques
+- 📘 [Cybersecurity-CheatSheets](https://github.com/cybernerd5/Cybersecurity-CheatSheets): Handy references for tools and commands
+
+---
+
+## 📈 GitHub Stats
+
+![Joseph's GitHub stats](https://github-readme-stats.vercel.app/api?username=cybernerd5&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cybernerd5&layout=compact&theme=tokyonight)
 
 ---
 
@@ -49,7 +60,7 @@ Hi there! I'm **Odigie Joseph**, a passionate and dedicated **ethical hacker** a
 - 🔗 **LinkedIn:** [www.linkedin.com/in/josephodigie](https://www.linkedin.com/in/josephodigie)  
 - 💻 **GitHub:** [github.com/cybernerd5](https://github.com/cybernerd5)
 
-> “The quieter you become, the more you are able to hear.” – Ram Dass
+> *“The quieter you become, the more you are able to hear.” – Ram Dass*
 
 ---
 
